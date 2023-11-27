@@ -1,0 +1,9 @@
+1. create a file called my_str.js
+   write a function which gets 2 strings and return concat
+   function my_concat(str1, str2) => returns str1+str2
+    i.e.  'rosh', 'hashana' => 'roshhashana'  
+    export this method
+2. create a file called my_str.test.js
+    inside create a test which executes my_concat function with your choice
+        of strings and checks that it works
+3. run the test using npm test        
